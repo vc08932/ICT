@@ -41,4 +41,4 @@ while True:
         times = int(input("Input the no. of random number again: "))
 
     output=generator(minimum,maximum,order,times)
-    print("The random numbers are ",output)
+    print("The random numbers are ",output,"\n","="*20,"\n")
